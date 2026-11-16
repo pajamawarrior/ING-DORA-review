@@ -12,7 +12,7 @@
 | Method | Requirements checklist, evidence mapping, rating, risk register, recommendations. |
 | Deliverables | Gap analysis table, risk heatmap, top-risk register, prioritised roadmap, portfolio case study page. |
 | Reference material | This is a 2026 update to my original MSc analysis (MSc Cybersecurity Risk Management, NUI Galway), a DORA compliance risk analysis of ING Group. That work covered 2020–2024 annual reports, a gap analysis, risk scoring and a FAIR summary. This update redoes the analysis from scratch on 2025 data, using the original as reference. |
-| Timeline | \[Set on completion\] |
+| Timeline | Completed 16 November 2026 |
 
 ## Project Steps
 
