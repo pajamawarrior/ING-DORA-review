@@ -163,7 +163,7 @@ Draft text for a case study page on the portfolio site; to be built with Claude 
 
 **Disclaimer:** Based only on public disclosures. Disclosure gaps mean information was not found in the sources reviewed; they do not imply non-compliance. Not affiliated with or endorsed by ING.
 
-**Visual:** ing\_dora\_heatmap.png
+![ING DORA risk heatmap](ing_dora_heatmap.png)
 
 ## Notes
 
